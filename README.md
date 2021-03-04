@@ -70,7 +70,7 @@ Aqui estão as definições dos recursos de cada plataforma e como eles se relac
 ---
 
 1. Clone este repo:
-   `git clone https://github.com/<USERNAME>/dio.git`
+   `git clone https://github.com/<USERNAME>/dio-template.git`
 
 1. Para cada aula, crie um `branch` com o nome da aula e faça seus `commits` e `pushs`
 1. Após concluir um curso, faça um `pull request (PR)` e relacione com o `issue` do curso
@@ -88,11 +88,5 @@ E sua missão é completar todos os cursos para completar os seus estudos.
 - Seu `milestone` é atualizado com o status desse `issue` concluído
 
 > `Dica` Documente sua evolução, preencha o README de cada aula com o que fez mais sentido pra você
-![parabéns](https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif)
->
->
-> ---
----
-### Bootcamp Status
 
-![GitHub milestone](https://img.shields.io/github/milestones/progress/edMaxi/dio/1?style=for-the-badge)
+![parabéns](https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif)
