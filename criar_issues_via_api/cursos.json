@@ -1,0 +1,582 @@
+[{
+    "formacao": "Metodologias Ágeis e Arquitetura de Sistemas",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/39ffe32f-f748-4905-8d66-6932d45ef77d_cover.png",
+    "titulo": "Fundamentos de Arquitetura de Sistemas",
+    "descricao": "Aprenda nesse curso sobre como funcionam as arquiteturas de softwares, seus conceitos, aplicações e desenvolvimento de operações.",
+    "nivel": "Básico",
+    "duracao": "6 hrs"
+}, {
+    "formacao": "Metodologias Ágeis e Arquitetura de Sistemas",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/a2d012ac-78ee-40b0-a96c-3e48d06eaaad_cover.png",
+    "titulo": "Projetos ágeis com SCRUM",
+    "descricao": "SCRUM é um framework utilizado no gerenciamento ágil de projetos de software. Esse curso ensinará os fundamentos e práticas da metodologia.",
+    "nivel": "Básico",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Metodologias Ágeis e Arquitetura de Sistemas",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/c0374d9b-3a3b-49a2-9569-805846506ec7_cover.png",
+    "titulo": "Arquitetura de Sistemas Avançado",
+    "descricao": "Conheça sobre os conceitos da arquitetura de sistemas, aplicações em nuvem e operações em softwares.",
+    "nivel": "Intermediário",
+    "duracao": "3 hrs"
+}, {
+    "formacao": "Metodologias Ágeis e Arquitetura de Sistemas",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/d243f876-21bc-4483-bbcb-e8becf9517fb_cover.jpg",
+    "titulo": "Conceitos de responsividade e experiência do usuário",
+    "descricao": "Esse curso vai ensinar sobre a experiência do usuário e interface do usuário, ou seja, como ele interage com a plataforma web, se ela é intuitiva e de fácil entendimento para quem acessa.",
+    "nivel": "Intermediário",
+    "duracao": "1 hrs"
+}, {
+    "formacao": "Metodologias Ágeis e Arquitetura de Sistemas",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/6c8dca92-1741-4d75-a54c-b0f6cd56fd6c_cover.jpg",
+    "titulo": "Aprenda o que são Estrutura de Dados e Algoritmos",
+    "descricao": "Aprenda o que são estruturas de dados em um sistema, qual a importância dela e como trabalhar com o armazenamento dessas informações de forma ágil e otimizada.",
+    "nivel": "Intermediário",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento em HTML e CSS",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/88cb0f8d-dcdb-4c7d-a9c5-c56d021a23b1_cover.png",
+    "titulo": "Lógica de programação essencial",
+    "descricao": "Lógica de programação é a forma como o desenvolvedor entende a comunicação a fim de programar uma função de um programa. Faz uso de algoritmos, que são sequências de passos bem estabelecidos, como por exemplo, uma receita de bolo.",
+    "nivel": "Básico",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento em HTML e CSS",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/842b396b-865a-4560-99fb-8a5d199b8e60_cover.jpg",
+    "titulo": "Primeiros passos para começar a programar",
+    "descricao": "Nesse curso você terá uma introdução do que é a internet, o que significa e como funcionam os seus principais termos. Aprenda também como os dispositivos se conectam através de diferentes tipos de rede e construa a sua primeira aplicação online.",
+    "nivel": "Básico",
+    "duracao": "6 hrs"
+}, {
+    "formacao": "Desenvolvimento em HTML e CSS",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/28bfbf19-a31a-41a2-b78f-e70c0e18f37a_cover.jpg",
+    "titulo": "Introdução a criação de websites com HTML5 e CSS3",
+    "descricao": "Nesse curso o especialista vai contar um pouco sobre a história do HTML5 e do CSS3, explicar como funciona a estrutura básica dessas tecnologias, sua semântica, principais elementos e comandos.",
+    "nivel": "Básico",
+    "duracao": "6 hrs"
+}, {
+    "formacao": "Desenvolvimento em HTML e CSS",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/c1f33b18-497b-408b-885f-ee8db71d872b_cover.jpg",
+    "titulo": "Introdução ao Git e ao GitHub",
+    "descricao": "Nesse curso vamos aprender um pouco da história do Git e como ele se tornou essencial para otimizar projetos dos desenvolvedores. Também vamos conhecer seus principais comandos, como funciona a plataforma e como ela pode simplificar o seu trabalho.",
+    "nivel": "Básico",
+    "duracao": "5 hrs"
+}, {
+    "formacao": "Desenvolvimento em HTML e CSS",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/e830c6d2-0566-4c36-a5d9-d261fef2c57d_cover.png",
+    "titulo": "Construindo páginas para internet com Bootstrap",
+    "descricao": "Aprenda a utilizar o framework Bootstrap e aprofunde mais o seu conhecimento em HTML5 e CSS3.",
+    "nivel": "Básico",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Sistema Operacional Linux",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/22bd442f-7e9f-4a8b-94e9-717aa742c102_cover.png",
+    "titulo": "Shell script - Manipulando Arquivos",
+    "descricao": "Aprenda como manipular os arquivos do ecossistema do linux no terminal, gerencie seus arquivos de maneira profissional e aprenda os principais comandos mais utilizados no terminal.",
+    "nivel": "Básico",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Sistema Operacional Linux",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/02f007f3-99c7-4d58-bcb7-5317f4093490_cover.jpg",
+    "titulo": "Linux: A introdução ao sistema operacional",
+    "descricao": "Aprenda como trabalhar com o sistema operacional Linux, um dos mais utilizados do mundo e muito popular entre os desenvolvedores. Ele pode ser usado em desktops, servidores, smartphones e tablets.",
+    "nivel": "Básico",
+    "duracao": "10 hrs"
+}, {
+    "formacao": "Desenvolvimento JavaScript",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/39a2a2c5-eeb8-4761-a371-711d3f8fc2d0_cover.png",
+    "titulo": "Introdução à biblioteca jQuery",
+    "descricao": "jQuery é uma biblioteca do JavaScript que produz efeitos e animações por meio de um código reduzido e sem nenhuma instalação externa no browser.",
+    "nivel": "Básico",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento JavaScript",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/e9a71f8f-1275-4f41-b606-234ba3627920_cover.png",
+    "titulo": "JavaScript ES6 essencial",
+    "descricao": "Nesse curso você vai conhecer a extensão ES6, do JavaScript, que foi criada com o objetivo de resolver problemas antigos da linguagem, facilitar a construção de aplicações, entre outros benefícios.",
+    "nivel": "Intermediário",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento JavaScript",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/3cd53359-923e-4cc6-ae36-1dea026d3c39_cover.png",
+    "titulo": "Programação para internet com JavaScript",
+    "descricao": "JavaScript é uma das mais importantes linguagens front-end, e nesse curso você entenderá o porquê disso e como trabalhar com ela.",
+    "nivel": "Básico",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento JavaScript",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/c2c97346-d62c-4739-92ba-d534b087aa56_cover.png",
+    "titulo": "Desenvolvimento avançado com JavaScript ES6",
+    "descricao": "Aprenda a trabalhar com a mais nova atualização da linguagem JavaScript, a ES6, desde seus fundamentos até as funções avançadas e novos conceitos aplicados.",
+    "nivel": "Avançado",
+    "duracao": "5 hrs"
+}, {
+    "formacao": "Desenvolvimento em ReactJS",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/f8ccb942-b9c7-47c6-bd04-7ac23dc0208e_cover.jpg",
+    "titulo": "Práticas avançadas em projetos com ReactJS",
+    "descricao": "Conclua o seu conhecimento de React JS com técnicas avançadas para desenvolver e otimizar o tempo dos projetos. Seja um desenvolvedor front-end de alta performance!",
+    "nivel": "Avançado",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento em ReactJS",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/47fb3627-20f0-4f92-a709-3e42cbe5cb36_cover.png",
+    "titulo": "Introdução ao ReactJS",
+    "descricao": "Aprenda os conceitos sobre ReactJS, ferramenta usada para a criação de interfaces para os usuários.",
+    "nivel": "Básico",
+    "duracao": "3 hrs"
+}, {
+    "formacao": "Desenvolvimento em ReactJS",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/13c558ea-8c4a-4734-b4e5-204954fd9f5b_cover.png",
+    "titulo": "Desenvolvimento de aplicações para internet com ReactJS",
+    "descricao": "Você aprenderá conceitos avançados sobre a combinação de Redux com React e sua aplicação.",
+    "nivel": "Intermediário",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento em React Native",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/ddac4a59-5dfc-4c01-be14-7be83948a444_cover.jpg",
+    "titulo": "Desenvolvendo aplicativos móveis com React Native com Firebase",
+    "descricao": "O Firebase é uma plataforma do Google que auxilia o profissional na hora de desenvolver aplicações de qualidade e alta performance. Esse curso vai ensinar como aplicá-la junto ao React Native.",
+    "nivel": "Avançado",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento em React Native",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/db2a0520-de6f-48bd-9fb4-f323628a1479_cover.jpg",
+    "titulo": "Desenvolvendo aplicativos móveis com Redux e React Native",
+    "descricao": "Redux é uma biblioteca com aplicações simples do JavaScript que é usada para gerenciar o estado do aplicativo. Em conjunto com o React Native, o Redux serve para fazer novas implementações e melhorar o projeto.",
+    "nivel": "Intermediário",
+    "duracao": "7 hrs"
+}, {
+    "formacao": "Desenvolvimento em React Native",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/05e93d7b-2580-4ae6-b3f0-e429fc854b15_cover.jpg",
+    "titulo": "Criando aplicações móveis multiplataforma com React Native",
+    "descricao": "Aprenda React Native da introdução ao desenvolvimento de seu próprio projeto mobile híbrido final, e acelere mais a sua carreira de desenvolvedor front-end.",
+    "nivel": "Básico",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento Angular",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/737f0fc1-aa91-485f-b5d2-7e973daeb569_cover.jpg",
+    "titulo": "Implementando testes automatizados usando Cypress em uma aplicação Angular",
+    "descricao": "Neste curso você aprenderá as principais funcionalidades do Cypress e sua aplicação com Angular. Você verá a simulação de diversos cenários para compreender o funcionamento e as vantagens de utilizar o Cypress.",
+    "nivel": "Intermediário",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento Angular",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/41dcd3b9-7031-4e5a-8849-02a81fd067b2_cover.png",
+    "titulo": "A arquitetura de componentes e a gestão da complexidade no front-end",
+    "descricao": "Neste curso você conhecerá os princípios e conceitos que envolvem a arquitetura de componentes, além da gestão de complexidade no front-end, compreendendo como organizar a estrutura do projeto. Por fim, conhecerá metodologias específicas para organização do front-end.",
+    "nivel": "Intermediário",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento Angular",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/0b9bc884-24ea-45ea-9ca1-cb8dece6d748_cover.jpg",
+    "titulo": "Aplicações avançadas com Angular",
+    "descricao": "Aprenda a aplicar conceitos avançados para estruturação, otimização e performance de aplicações complexas usando Angular, assim como a utilização de API não convencionais.",
+    "nivel": "Avançado",
+    "duracao": "6 hrs"
+}, {
+    "formacao": "Desenvolvimento Angular",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/4e771693-693c-4e3e-833c-f963ce9e65b8_cover.png",
+    "titulo": "Introdução ao Angular 8",
+    "descricao": "Nesse curso você aprenderá os conceitos e técnicas necessárias para começar a desenvolver aplicações usando Angular 8.",
+    "nivel": "Básico",
+    "duracao": "5 hrs"
+}, {
+    "formacao": "Desenvolvimento Angular",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/1796e5e7-c8e5-4518-903b-645f904005f6_cover.png",
+    "titulo": "Técnicas avançadas em Angular 8",
+    "descricao": "Aprenda a montar um CRUD (Create, Read, Update e Delete) completo de filmes com aulas práticas voltadas para desenvolvedores que já possuem conhecimentos em Angular.",
+    "nivel": "Intermediário",
+    "duracao": "8 hrs"
+}, {
+    "formacao": "Desenvolvimento Angular",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/db819c10-4676-433f-be0a-d0540cfe0796_cover.jpg",
+    "titulo": "Conceitos avançados de performance e otimização usando Angular",
+    "descricao": "Neste curso você compreenderá conceitos avançados de performance e otimização com o Angular, um framework altamente utilizado para o desenvolvimento web e a construção de aplicações interativas.",
+    "nivel": "Avançado",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento Vue.js",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/e11ebdee-23b2-4d63-b1b4-2e407127b341_cover.jpg",
+    "titulo": "Desenvolvendo sua primeira aplicação com Vue.js",
+    "descricao": "Esse curso é para quem quer iniciar no framework Vue.js, focado no desenvolvimento de páginas web e interface do usuário.",
+    "nivel": "Básico",
+    "duracao": "13 hrs"
+}, {
+    "formacao": "Desenvolvimento Python",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/47288d46-5127-4c7e-abb7-1bcf274f67e0_cover.png",
+    "titulo": "Desenvolvimento avançado Python com Flask e REST API",
+    "descricao": "Nesse curso você aprenderá sobre a framework Flask e como desenvolver REST API através dela.",
+    "nivel": "Avançado",
+    "duracao": "5 hrs"
+}, {
+    "formacao": "Desenvolvimento Python",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/3b852834-5d5e-4819-b3b2-8a32a60db205_cover.png",
+    "titulo": "Introdução à programação com Python",
+    "descricao": "O curso trará todo o embasamento da linguagem Python, quando e onde é mais indicado aplicá-la.",
+    "nivel": "Básico",
+    "duracao": "8 hrs"
+}, {
+    "formacao": "Desenvolvimento Python",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/4fd2851a-7c9d-4352-bef3-41c75fc9ede4_cover.jpg",
+    "titulo": "Segurança da informação com Python",
+    "descricao": "Este curso vai te ensinar a trabalhar com segurança da informação com a linguagem Python, uma das mais usadas por desenvolvedores de todo o mundo e que é de fácil aprendizado.",
+    "nivel": "Avançado",
+    "duracao": "5 hrs"
+}, {
+    "formacao": "Desenvolvimento Python",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/cc94e034-89b3-49ee-970b-f6a3127767e8_cover.png",
+    "titulo": "Desenvolvimento para Internet e Banco de Dados com Python e Django",
+    "descricao": "Esse curso irá ensinar como gerenciar bancos de dados para internet através da framework Django, da linguagem Python.",
+    "nivel": "Intermediário",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento em Node.js",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/af9f3c0f-9151-4806-a1aa-1751fcad4cb3_cover.png",
+    "titulo": "Desenvolvimento back-end com Node.js",
+    "descricao": "Aprenda como programar em back-end utilizando o Node, uma plataforma poderosa de aplicações que conecta o back ao front-end.",
+    "nivel": "Intermediário",
+    "duracao": "5 hrs"
+}, {
+    "formacao": "Desenvolvimento em Node.js",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/8fe27ff7-2ee7-41b9-96d5-5c3265dcee95_cover.png",
+    "titulo": "Introdução ao Node.js com Express",
+    "descricao": "Nesse curso você vai conhecer um framework de JavaScript, o Express, que foi criado com a finalidade de criar aplicativos web usando o Node.js.",
+    "nivel": "Básico",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento PHP",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/601e5c2a-55f4-4ecd-8a57-e55d733be944_cover.png",
+    "titulo": "Orientação a objetos, exceções e banco de dados PHP",
+    "descricao": "Nesse curso você verá o que é orientações a objetos e como trabalhar com ela. Além de também aprender manipulação de banco de dados com PDO, datas, horas e exceções.",
+    "nivel": "Intermediário",
+    "duracao": "3 hrs"
+}, {
+    "formacao": "Desenvolvimento PHP",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/9923a300-e5c0-420d-b38c-26a24d307c33_cover.png",
+    "titulo": "Formulários com condicionais e sessões com PHP",
+    "descricao": "Aprenda a criar Formulários com validações, mensagens de erro e boas práticas para otimização de código.",
+    "nivel": "Básico",
+    "duracao": "5 hrs"
+}, {
+    "formacao": "Desenvolvimento PHP",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/3c23b6a7-5963-4dc9-95e7-bacc3f8b0b2d_cover.png",
+    "titulo": "Introdução ao PHP",
+    "descricao": "Conheça a linguagem PHP e seu ecossistema, aprenda a lidar com comandos básicos e iniciar o desenvolvimento com a linguagem.",
+    "nivel": "Básico",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento PHP",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/d0ae1322-cfcc-481e-8c6c-4de00b3b3d37_cover.png",
+    "titulo": "Conhecendo funções e validação de dados com PHP",
+    "descricao": "Esse curso vai ensinar sobre as funções e validações de comandos e informações no PHP e como aplicá-los no seu trabalho.",
+    "nivel": "Básico",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento PHP",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/1f8851df-7937-485a-a355-3d80b4cfab63_cover.png",
+    "titulo": "Desenvolvimento avançado em PHP",
+    "descricao": "Aprenda sobre a visão geral da sintaxe e Laravel, framework de PHP que auxilia no desenvolvimento de aplicações de maneira rápida e fácil.",
+    "nivel": "Avançado",
+    "duracao": "10 hrs"
+}, {
+    "formacao": "Banco de Dados",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/a853663a-e20a-4d90-97dc-31ca210920fd_cover.png",
+    "titulo": "SQL SERVER - Criando suas primeiras consultas",
+    "descricao": "Aprenda desde a instalação e configuração do ambiente com SQL Server, até comandos mais avançados relacionados ao banco de dados.",
+    "nivel": "Básico",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Banco de Dados",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/dd84deb1-8081-4c11-ad9e-d24760f110bf_cover.png",
+    "titulo": "MySql - Explorando relacionamentos com workbench",
+    "descricao": "Entenda de maneira um pouco mais aprofundada os relacionamentos e como criar consultas mais poderosas na hora de resgatar seus dados.",
+    "nivel": "Básico",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Banco de Dados",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/2d490e5c-a8ec-4401-b052-c1a5f89caab7_cover.png",
+    "titulo": "MySql - Trabalhando com as suas primeiras tabelas",
+    "descricao": "Crie suas primeiras tabelas no ambiente MySQL e aprenda como gerenciar a relação entre elas.",
+    "nivel": "Básico",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Banco de Dados",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/ce655a83-1d8f-46ad-a831-6242d6b4aee8_cover.png",
+    "titulo": "Conceitos e melhores práticas com bancos de dados PostgreSQL",
+    "descricao": "Esse curso ensinará como trabalhar com PostgreSQL, um gerenciador de banco de dados relacional.",
+    "nivel": "Básico",
+    "duracao": "9 hrs"
+}, {
+    "formacao": "Desenvolvimento Java",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/60903be0-75c9-44b4-9b15-fa2a41067de1_cover.jpg",
+    "titulo": "Introdução a JSF para aplicação web",
+    "descricao": "Aprenda como trabalhar com a linguagem Java para aplicações web e desenvolva um projeto passo a passo usando o framework JSF, que otimiza a criação de User Interface.",
+    "nivel": "Intermediário",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento Java",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/a9bfb6e0-83cb-4e33-b463-8605c7b57f18_cover.png",
+    "titulo": "Criando aplicações web com Spring Web MVC",
+    "descricao": "Considerado um dos frameworks mais conhecido e utilizado de Java, o Spring Web MVC reúne várias funções em apenas uma ferramenta que otimiza o trabalho do desenvolvedor.",
+    "nivel": "Intermediário",
+    "duracao": "7 hrs"
+}, {
+    "formacao": "Desenvolvimento Java",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/8eb094f8-f8dc-4cdd-8f15-1d63669010ae_cover.png",
+    "titulo": "Implementando Collections e Streams com Java",
+    "descricao": "Aprenda a trabalhar com collections e streams, usadas para implementar estrutura de dados da linguagem Java.",
+    "nivel": "Intermediário",
+    "duracao": "6 hrs"
+}, {
+    "formacao": "Desenvolvimento Java",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/5a71425d-2ca3-4dde-bca2-a53a947e4185_cover.png",
+    "titulo": "Desenvolvimento avançado em Java",
+    "descricao": "Aprenda em 8 horas de curso a executar de forma eficaz e ágil a linguagem Java e ainda conheça quais são as novidades nas versões da tecnologia: Java 10 e Java 11.",
+    "nivel": "Avançado",
+    "duracao": "8 hrs"
+}, {
+    "formacao": "Desenvolvimento Java",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/98e52508-d41b-455f-9294-2c124cc21510_cover.jpg",
+    "titulo": "Trabalhando com Banco de Dados utilizando JDBC e JPA",
+    "descricao": "Aprenda sobre JDBC e JPA, frameworks da linguagem Java para otimização na hora de trabalhar com banco de dados.",
+    "nivel": "Intermediário",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento Java",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/1dcc883a-37fa-42a9-a2a1-1cf012ffb34e_cover.png",
+    "titulo": "Introdução ao framework Spring Boot",
+    "descricao": "Spring Boot é um micro framework que tem como finalidade reaproveitar tecnologias já aplicadas a fim de otimizar o trabalho do desenvolvedor.",
+    "nivel": "Intermediário",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento Java",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/88bb39be-4055-4d4c-ae22-c11c25ca6016_cover.png",
+    "titulo": "Desenvolvimento básico em Java",
+    "descricao": "A linguagem Java é orientada a objetos e uma das mais usadas por desenvolvedores no mundo. Aprenda desde os conceitos e instalação até a execução de projetos em Java.",
+    "nivel": "Básico",
+    "duracao": "9 hrs"
+}, {
+    "formacao": "Desenvolvimento Java",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/b8ee0e3e-14f9-4952-884f-3382338f22e3_cover.png",
+    "titulo": "Aprenda a aplicar testes com Java",
+    "descricao": "Saiba como criar testes e utilizar as principais ferramentas usadas no mercado de trabalho que oferecem segurança e qualidade no código.",
+    "nivel": "Intermediário",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento Java",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/7be82ae5-173f-4ca4-a33e-5b0cc18299f9_cover.png",
+    "titulo": "Projetos Java com Gradle",
+    "descricao": "Neste curso você conhecerá tudo sobre o Gradle, que é uma ferramenta para desenvolvimento Java open source e que permite a configuração de arquivos build.",
+    "nivel": "Intermediário",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento .NET",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/51380620-d09b-49cf-8720-dc45eae34486_cover.png",
+    "titulo": "Desenvolvendo sua aplicação com C# usando DDD",
+    "descricao": "Aprenda mais sobre Data Domain Design (ou DDD), e entenda um conjunto de princípios e boas práticas de como modelar um software com foco total no domínio de um problema de negócio, explore modelos de forma criativa e entenda o que é a linguagem Ubíqua (ou linguagem onipresente) para criar softwares ainda mais profissionais.",
+    "nivel": "Intermediário",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento .NET",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/0784d4ab-f673-48f5-9d06-f98749f4452e_cover.jpg",
+    "titulo": "Configuração da arquitetura back-end com .NET Core",
+    "descricao": "Aprenda de forma 100% prática a desenvolver um projeto com .NET Core usando RESTful APIs e outras funções que otimizam o trabalho com a tecnologia.",
+    "nivel": "Avançado",
+    "duracao": "3 hrs"
+}, {
+    "formacao": "Desenvolvimento .NET",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/daf70aaf-c171-41d1-b06f-15b814d4c030_cover.png",
+    "titulo": "Primeiros passos com .NET + C#",
+    "descricao": "Nesse curso o aluno terá o primeiro contato com a plataforma .NET e sua linguagem C# aprendendo onde e como utilizá-las. O especialista vai mostrar como preparar ambiente, lidar com erros, classes e objetos.",
+    "nivel": "Básico",
+    "duracao": "7 hrs"
+}, {
+    "formacao": "Desenvolvimento .NET",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/982268ba-c206-44ee-bbe6-d9d923be0646_cover.png",
+    "titulo": "Desenvolvimento de aplicações com .NET",
+    "descricao": "Aprenda sobre o Entity Framework, como criar aplicativos web ASP .NET API e ASP .NET MVC. Você também vai criar testes na aplicação e um projeto com Unit Tests.",
+    "nivel": "Intermediário",
+    "duracao": "3 hrs"
+}, {
+    "formacao": "Desenvolvimento .NET",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/2d01337f-5930-40e5-b50a-0bc1141c2468_cover.jpg",
+    "titulo": "Orientação a objetos em .NET",
+    "descricao": "Um curso voltado para iniciantes em C# e .NET que foca no aprendizado teórico dos principais conceitos em orientação a objetos, como métodos, classes e propriedades.",
+    "nivel": "Básico",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento .NET",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/cf8ca33e-bb6d-45bf-8ef8-97ca4483d13a_cover.jpg",
+    "titulo": "Configuração da Arquitetura do front-end",
+    "descricao": "Muito além do back, aprenda nesse curso como proteger o nosso front-end, como criar um setup de validação de dados e utilizar o 'refit', uma das bibliotecas mais conhecidas do mercado, tudo isso para que você possa construir aplicações mais sólidas de ponta a ponta.",
+    "nivel": "Avançado",
+    "duracao": "3 hrs"
+}, {
+    "formacao": "Desenvolvimento .NET",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/1e762ae7-a268-4e64-a4b5-468d99aed920_cover.jpg",
+    "titulo": "Configuração e Deploy na nuvem Microsoft Azure Cloud",
+    "descricao": "Aprenda nesse curso a fazer um deploy ou uma aplicação na Azure Cloud e as diferenças entre os serviços em nuvem IaaS, PaaS e DbaaS.",
+    "nivel": "Avançado",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento .NET",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/f09bcf7a-cc92-4447-aac6-0e7be9103f33_cover.png",
+    "titulo": "Aplicando design patterns na prática com C#",
+    "descricao": "Aprenda a criar e utilizar os padrões de projetos utilizados pelo mundo todo, implemente estruturas confiáveis e padronizadas utilizando as melhores práticas do mercado e então crie soluções mais escaláveis, tudo isso na prática utilizando C#.",
+    "nivel": "Intermediário",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento .NET",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/17b1ed50-c3be-41b7-8f15-c2996c9968a2_cover.jpg",
+    "titulo": "Configuração da Suíte de testes e aplicando testes integrados em .NET CORE",
+    "descricao": "Aprenda a configurar uma suíte e a criar hosts em memória para projetos com .NET. O especialista ainda vai ensinar várias dicas para otimização do código e, consequentemente, do projeto.",
+    "nivel": "Avançado",
+    "duracao": "3 hrs"
+}, {
+    "formacao": "Desenvolvimento Ruby on Rails",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/e076986d-09c8-4530-b1eb-51df0c25ddc5_cover.jpg",
+    "titulo": "Ruby on rails: Montando uma rede social",
+    "descricao": "Nessa curso você vai desenvolver uma rede social com várias features como curtir e descurtir fotos e posts, fazer comentários e gerenciar a página do usuário.",
+    "nivel": "Avançado",
+    "duracao": "9 hrs"
+}, {
+    "formacao": "Desenvolvimento Ruby on Rails",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/25798dea-300e-4c8b-9bf2-dfeb540d6b34_cover.jpg",
+    "titulo": "Ruby: Introdução a orientação a objetos",
+    "descricao": "Por ser uma linguagem orientada a objetos, Ruby possui vários pilares em seu código como herança, métodos e classes. Nesse curso você aprenderá cada um deles e sua aplicação na prática.",
+    "nivel": "Básico",
+    "duracao": "3 hrs"
+}, {
+    "formacao": "Desenvolvimento Ruby on Rails",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/2c7e6123-d4cc-48f0-910c-11da2d3f7704_cover.jpg",
+    "titulo": "Da arquitetura ao deploy com Ruby",
+    "descricao": "Nesse curso vamos aprofundar ainda mais nosso conhecimento em Ruby on Ralis com o desenvolvimento de um projeto, utilizando técnicas de otimização de código e bibliotecas, do zero até o deploy.",
+    "nivel": "Intermediário",
+    "duracao": "5 hrs"
+}, {
+    "formacao": "Desenvolvimento Ruby on Rails",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/196641bf-081f-46fe-ac2d-774115e652bf_cover.jpg",
+    "titulo": "Aprendendo o que é Ruby",
+    "descricao": "Este curso é para quem teve pouco, ou nunca teve, contato com a linguagem orientada a objetos e de tipagem forte: o Ruby. Aprenda o que é e o porquê você deve trabalhar com ela.",
+    "nivel": "Básico",
+    "duracao": "3 hrs"
+}, {
+    "formacao": "Orquestrando contêineres com Docker",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/5f3670e0-4a79-4bbc-88b8-2d58a18f01b3_cover.jpg",
+    "titulo": "Introdução a orquestração de contêineres com Docker",
+    "descricao": "Nesse curso aprenderemos sobre o Docker, um projeto OpenSource que facilita a criação de ambientes isolados com container.",
+    "nivel": "Básico",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Desenvolvimento Swift",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/bb031631-857a-4d98-9b4c-7453eb7f1bcd_cover.png",
+    "titulo": "Conhecendo a base do Swift",
+    "descricao": "Esse curso vai ensinar sobre uma das linguagens de programação mais usadas para o desenvolvimento iOS: Swift.",
+    "nivel": "Básico",
+    "duracao": "7 hrs"
+}, {
+    "formacao": "Desenvolvimento Swift",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/f5897a6d-bd69-4383-a161-d49323b5cd4d_cover.jpg",
+    "titulo": "Criando um aplicativo com SwiftUI e Combine",
+    "descricao": "Nesse curso o especialista vai desenvolver passo a passo um aplicativo de rede social de fotos. O aluno vai aprender a fazer desde o layout da tela até as funcionalidades mais comuns como: tela de comentários, upload de fotos e animações.",
+    "nivel": "Avançado",
+    "duracao": "7 hrs"
+}, {
+    "formacao": "Desenvolvimento com Flutter",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/235f5eb5-e663-4d4c-9d97-213998f2b3c2_cover.jpg",
+    "titulo": "Primeiros passos com Flutter",
+    "descricao": "Aprenda desde a introdução do Flutter e seus principais comandos, até a criação de pequenos projetos do zero à seu funcionamento completo.",
+    "nivel": "Básico",
+    "duracao": "3 hrs"
+}, {
+    "formacao": "Desenvolvimento com Flutter",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/7dacd3a0-76d2-4a72-b799-26405ade4492_cover.jpg",
+    "titulo": "Primeiros passos com Dart",
+    "descricao": "Aprenda sobre Dart, uma linguagem criada pelo Google para desenvolvimento web para substituir o JavaScript. Projetos desenvolvidos com essa tecnologia podem ser executados em todos os navegadores modernos.",
+    "nivel": "Básico",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Desenvolvimento com Flutter",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/b5af2f26-dc5d-4e9c-917c-89b1976ab59d_cover.jpg",
+    "titulo": "Flutter Prático: criando um aplicativo do zero",
+    "descricao": "Nesse curso vamos desenvolver um código do zero até a total funcionalidade do projeto.",
+    "nivel": "Avançado",
+    "duracao": "5 hrs"
+}, {
+    "formacao": "Desenvolvimento com Flutter",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/c116ec56-c5a8-4583-81a1-bd9554fbf300_cover.jpg",
+    "titulo": "Trabalhando com variáveis e condicionais no Dart",
+    "descricao": "Aprenda conceitos mais aprofundados de Dart, seus operadores e comandos.",
+    "nivel": "Básico",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Empreendedorismo e Startups",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/0909be0f-7cf2-49b8-93c2-48f1c97824a3_cover.png",
+    "titulo": "Fundamentos do Intraempreendedorismo",
+    "descricao": "Aprenda a importância do intraempreendedorismo para a carreira profissional e o impacto positivo na evolução dos negócios.",
+    "nivel": "Básico",
+    "duracao": "2 hrs"
+}, {
+    "formacao": "Empreendedorismo e Startups",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/6a500f94-6e7f-47c8-a76c-767d773dde3b_cover.png",
+    "titulo": "Estratégia de Negócios com OKR",
+    "descricao": "Aprenda as ferramentas aplicadas por empresas de alto desempenho na criação, execução e controle de estratégias de negócios.",
+    "nivel": "Básico",
+    "duracao": "5 hrs"
+}, {
+    "formacao": "Empreendedorismo e Startups",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/7a7f9276-0379-470f-a6ba-8c74588a22b1_cover.png",
+    "titulo": "Introdução à Inovação Aberta e Ecossistema de Inovação",
+    "descricao": "Aprenda os principais conceitos da inovação aberta, práticas aplicadas pelas startups e a importância de um ecossistema de inovação para potencializar os negócios.",
+    "nivel": "Básico",
+    "duracao": "6 hrs"
+}, {
+    "formacao": "Empreendedorismo e Startups",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/c111c73f-ff19-4cf1-8cb9-a503dce7126e_cover.png",
+    "titulo": "Modelagem de Negócios",
+    "descricao": "Aprenda como criar soluções e negócios de alto valor para os clientes aplicando o canvas da proposta de valor e de modelo de negócios.",
+    "nivel": "Básico",
+    "duracao": "4 hrs"
+}, {
+    "formacao": "Empreendedorismo e Startups",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/ab8e008a-65e7-43ab-bca6-a2c5d8b5a563_cover.png",
+    "titulo": "Mentalidade Empreendedora",
+    "descricao": "Aprenda e desenvolva o comportamento e as atitudes essenciais para criar soluções inovadores e negócios digitais.",
+    "nivel": "Básico",
+    "duracao": "3 hrs"
+}, {
+    "formacao": "Empreendedorismo e Startups",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/1e642794-a96e-4902-ae44-06275fe3c786_cover.png",
+    "titulo": "Fundamentos para a Criação de Produtos Digitais",
+    "descricao": "Aprenda como definir, criar e evoluir produtos digitais alinhados às necessidades dos clientes e estratégias de negócio.",
+    "nivel": "Básico",
+    "duracao": "6 hrs"
+}, {
+    "formacao": "Empreendedorismo e Startups",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/7ba0fdf2-8f5d-43bc-a710-eab46fd08d6f_cover.png",
+    "titulo": "Estratégias para Captação de Investimentos",
+    "descricao": "Aprenda os principais conceitos, ferramentas aplicadas e oportunidades criadas por empreendedores de alto desempenho para levantar capital para os negócios.",
+    "nivel": "Básico",
+    "duracao": "6 hrs"
+}, {
+    "formacao": "Empreendedorismo e Startups",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/ac150666-4772-4b9a-a050-a6884a0dd49b_cover.png",
+    "titulo": "Liderança de Negócios com Cultura Ágil",
+    "descricao": "Aprenda os modelos de trabalho que aceleram a entrega de valor para os clientes.",
+    "nivel": "Intermediário",
+    "duracao": "5 hrs"
+}, {
+    "formacao": "Empreendedorismo e Startups",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/18da1f0c-22a5-4db6-b405-7c174f8efc91_cover.png",
+    "titulo": "Fundamentos de Negócios Digitais Escaláveis",
+    "descricao": "Aprenda os principais conceitos e desenvolva habilidades para liderar ou criar negócios digitais.",
+    "nivel": "Básico",
+    "duracao": "6 hrs"
+}, {
+    "formacao": "Empreendedorismo e Startups",
+    "capa": "https://hermes.digitalinnovation.one/courses/cover/d54b8981-a2e6-4afa-8adf-73e98b01bc07_cover.png",
+    "titulo": "Criação de Soluções Inovadoras",
+    "descricao": "Aprenda os principais conceitos e as ferramentas mais utilizadas para solucionar problemas de forma inovadora.",
+    "nivel": "Básico",
+    "duracao": "4 hrs"
+}]

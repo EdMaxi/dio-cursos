@@ -1,0 +1,30 @@
+{
+  "name": "dio-cursos_api-github",
+  "version": "1.0.0",
+  "description": "Criar Cursos e Formações da Digital Innovation One no Github via API",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https"
+  },
+  "keywords": [
+    "digital",
+    "innovation",
+    "one",
+    "dio",
+    "api",
+    "github"
+  ],
+  "author": "ednei@confiatec.com.br",
+  "license": "ISC"
+}

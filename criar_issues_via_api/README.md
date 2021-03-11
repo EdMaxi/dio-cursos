@@ -1,8 +1,18 @@
 # Criando issues via API 
 
-Para facilitar a criação massiva dos cursos da DIO neste repositório, vamos criar um web scrapper pra ler a página de
-cursos, e criar os `issues` automaticamente a partir daí.
+Para facilitar a criação massiva dos cursos da DIO neste repositório, temos um comando especial que vai poupar o seu tempo!
+Através do comando abaixo, criaremos todos os `Issues` automaticamente no repositório, inclusive com `Labels` e `Milestones`.
 
-## O desafio
-Ler a página de cursos que é uma área logada da DIO, utilizando login e senha previamente cadastrados
- 
+Atualmente a DIO possui 83 Cursos disponíveis e 19 Formações.
+Criar toda a estrutura no repositório dá um bom trabalho, e por isso este script vai te ajudar demais!
+
+## Vamos lá!
+
+1. Crie um Token do Github
+1. Atualize o o arquivo .env com seu token no formato: `TOKEN=SEUTOKENAQUI`
+1. Instale as dependências e execute a criação de Issues automatizada:
+    ```
+    cd criar_issues_via_api
+    npm install
+    npm run deploy
+    ```

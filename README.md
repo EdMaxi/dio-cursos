@@ -1,92 +1,33 @@
 # Digital Innovation One - _Like a Pro_
 
-![commits](./assets/git-commits.png)
-Este repositório é uma ferramenta poderosa para desenvolver a capacidade dos alunos em organizar os seus estudos,
-os códigos fontes, a documentação e tudo que é útil para um programador profissional ser produtivo.
+Então você está fazendo cursos na Digital Innovation One e está montando seu portifólio profissional aqui no Github?  
+E pra evitar aquela bagunça de 1 milhão de repositórios sem qualquer padronização, você está buscando uma forma eficiente de se organizar?  
 
-<!-- 
-[![EdMaxi stats](https://github-readme-stats-edmaxi.vercel.app/api?username=edMaxi&hide=contribs&count_private=true&show_icons=true&title_color=0af&icon_color=fa0&text_color=ddd&bg_color=1a202c&hide_border=true&locale=pt-br&custom_title=Minhas%20Estatísticas%20no%20Github)](https://github.com/edmaxi/github-readme-stats)
-[![Top Langs](https://github-readme-stats-edmaxi.vercel.app/api/top-langs/?username=edmaxi)](https://github.com/edmaxi/github-readme-stats)
--->
+- E se este método puder registrar todo seu aprendizado direto no Github?
+- E se você puder dominar o fluxo do Github enquanto estuda?
+- E se este repositório se torne sua caixa de ferramentas para novos projetos?
+- E se os recrutadores já te selecionarem só de ver o seu perfil?
 
+`A boa notícia:` **VOCÊ ACHOU**!😁  
+`A ótima nóticia:` **OS PREGUIÇOSOS NÃO PASSAM DAQUI, ASSIM SOBRA VAGA PRA QUEM MERECE**😂
 
-## Índice
+## O que você ganha usando este repositório?
 
----
+- Você será um MESTRE e dominará a artes de:
+  - clonar repositórios
+  - gerenciar suas aulas por branchs
+  - gerenciar seus cursos por Issues
+  - organizar seu cursos com Labels e Milestones para níveis, bootcamps e formações
+  - fazer commits eficientes
+  - fazer push e pull para se manter atualizado local e remotamente
+- Seu repositório será atualizado conforme você conclui os cursos
+- Sua formação será terá o percentual atualizado, de acordo com o seu progresso
+- Experiência PRÁTICA no Github, estará apto para trabalhar como um PROFISSIONAL
+- Armazenamento, Estatísticas de progresso e Controle de Versão na nuvem
 
-- [Objetivo](#objetivo)
-- [DIO e Github](#dio-e-github)
-- [Como usar este template](#como-usar-este-template)
-- [Clonando o repositório e trabalhando na sua IDE](#clonando-o-repositório-e-trabalhando-na-sua-ide)
-- [Conclusão](#conclusão)
+Tá certo, mas antes de dar tudo isso de mão beijada eu preciso saber: 👋
 
-### Objetivo
+![decisao](./assets/sua-decisao.png)
 
----
+> [🔴Tá brincando? Conta logo tudo homi!🤣](./como-funciona.md)
 
-Concluir os Cursos e Bootcamps colocando em prática o uso do Github `like a pro`
-
-### DIO e Github
-
----
-
-Aqui estão as definições dos recursos de cada plataforma e como eles se relacionam.
-
-| DIO | <-> | Github |
-| :---: | :---: | :---:|
-| Bootcamp | <-> | Milestones |
-| Cursos | <-> | Issues |
-| Aulas | <-> | Branchs
-| Nível | <-> | Labels
-
-- Cada `Bootcamp` é um `Milestone`
-- Cada `Curso` é um `Issue`
-- Cada `Aula` é um `Branch`
-- Cada `Nível` é um `Label`
-
-
----
-
-### Como usar este template
-
-1. Faça um _Fork_ deste repositório, configure-o com as opções abaixo:
-    * Em **Settings > Options**, marque estas opções:
-        - `Features`
-            - [x] Issues
-        - `Merge Button`
-            - [x] Allow auto-merge
-            - [x] Automatically delete head branches
-    * Em **Issues > Milestones**, crie um milestone com o prefixo `Bootcamp - ` e o nome do Bootcamp
-      e o prazo de finalização.
-      Ex:
-      >Bootcamp - everis Kotlin Developer
-    * Em **Issues > Labels**, apague todas e crie estas 3:  
-      `básico` `intermediário` `avançado`
-
-1. Para cada curso, crie um `issue` e relacione `label` e `milestone`
-
-### Clonando o repositório e trabalhando na sua IDE
-
----
-
-1. Clone este repo:
-   `git clone https://github.com/<USERNAME>/dio-template.git`
-
-1. Para cada aula, crie um `branch` com o nome da aula e faça seus `commits` e `pushs`
-1. Após concluir um curso, faça um `pull request (PR)` e relacione com o `issue` do curso
-
-### Conclusão
-
----
-O status do seu bootcamp (milestone) será atualizado a cada vez que você concluir um curso.
-E sua missão é completar todos os cursos para completar os seus estudos.
-
-
-- Seu `PR` será fechado automaticamente (merge automático)
-- Seu `branch` será integrado ao `main` e então excluído
-- Seu `issue` é fechado por conta da conclusão do `PR` linkado à ele
-- Seu `milestone` é atualizado com o status desse `issue` concluído
-
-> `Dica` Documente sua evolução, preencha o README de cada aula com o que fez mais sentido pra você
-
-![parabéns](https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif)
