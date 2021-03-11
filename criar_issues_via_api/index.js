@@ -37,7 +37,7 @@ let ISSUES = CURSOS.map(i => {
 })
 
 /*** CONSTANTES E VARIÁVEIS DO ESCOPO */
-const INTERVALO_REQUEST = 1500
+const INTERVALO_REQUEST = 2000
 const OK = '✔'
 const NOK = '✘'
 const AUTH_TOKEN = "Bearer " + process.env.TOKEN
