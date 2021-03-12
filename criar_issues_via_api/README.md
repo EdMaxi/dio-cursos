@@ -8,7 +8,9 @@ Criar toda a estrutura no repositório dá um bom trabalho, e por isso este scri
 
 ## Vamos lá!
 
-1. Crie um Token do Github
+1. [Crie um Personal Token do Github](https://github.com/settings/tokens/new) com a permissão `public_repo`
+![github-token-image](../assets/github-token-permissao.png)
+   
 1. Atualize o o arquivo .env com seu token no formato: `TOKEN=SEUTOKENAQUI`
 1. Instale as dependências e execute a criação de Issues automatizada:
     ```
@@ -16,3 +18,6 @@ Criar toda a estrutura no repositório dá um bom trabalho, e por isso este scri
     npm install
     npm run deploy
     ```
+Feito, agora tá tudo pronto pra usar!
+
+![terminal](../assets/criando-issue-terminal.png)
