@@ -30,3 +30,16 @@ Algumas características da DIO
     - Conquistas: badges adquiridas ao término de cursos, desafios, etc... (certificados)
     - Habilidades: tópicos aprendidos durante o aprendizado
     - Currículo: você preenche com seus dados profissionais
+  
+# 10 dicas para ser contratado
+
+1. Ter um github alinhado com seu currículo
+1. Ter Artigos publicados na internet
+1. Participar ativamente de comunidades de desenvolvimento de software
+1. Sonhar grande e ter ambição para crescer profissionalmente
+1. Utilizar comunidades e sites internacionais para pesquisas
+1. Ter cursado ou estar cursando uma graduação em exatas
+1. Ter evidências de contatos com novas tecnologias
+1. Ter grande conhecimento em metodologias ágeis, devops e ux
+1. Ter contas em provedores cloud e ferramentas online para devs
+1. Ter evidências de aprendizagem continua através da internet
