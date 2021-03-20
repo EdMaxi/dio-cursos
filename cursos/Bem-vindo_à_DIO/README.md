@@ -43,3 +43,29 @@ Algumas características da DIO
 1. Ter grande conhecimento em metodologias ágeis, devops e ux
 1. Ter contas em provedores cloud e ferramentas online para devs
 1. Ter evidências de aprendizagem continua através da internet
+
+# 10 características dos não aprovados
+
+1. Não tem projetos e portfólio pra apresentar
+1. Não conhece e nunca praticou as novas tecnologias
+1. Não está conectado a nenhuma comunidade de aprendizagem seja físico ou digital
+1. Não apresenta elementos de colaboração e trabalho em equipe
+1. Muito foco no currículo e não na jornada
+1. Conhece codificação mas não conhece arquitetura moderna e com pouca visão de holística de 
+desenvolvimento e operação de software
+1. Não apresenta características de curiosidade, autodidata e protagonismo
+1. Apresenta poucas evidências de disciplina para traçar metas de aprendizagem e aprender continuamente online
+1. Não tem fit com a cultura e propósito da empresa
+1. Dificuldade com algoritmos complexos e pensamento lógico.
+
+# Dio Pro
+
+- `Live Coding`
+  Agora, imagine que além de fazer os cursos gratuitamente na plataforma, você tenha a chance de ver um profissional
+  renomado no mercado, que trabalha em uma das empresas que você almeja trabalhar, fazendo uma aplicação AO VIVO?
+  Esta é a ideia do live Coding!
+  
+- `Labs`
+Aqui temos um banco de projetos interessantes pra você pegar o código e reproduzir da sua maneira, praticamento
+  com projetos reais, atuais e que usam as melhores tecnologias do mercado.  
+  Imagina fazer seu próprio facebook, whatsapp, insta, netflix??? Seria muito massa saber como tudo isso funciona!
