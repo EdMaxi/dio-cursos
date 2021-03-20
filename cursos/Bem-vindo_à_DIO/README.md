@@ -12,26 +12,22 @@ Algumas características da DIO
 
 ## Plataforma
 
-- `Cursos`
-  
+- `Cursos`    
   Cursos gratuitos sobre diversos temas de tecnologia e empreendedorismo  
-- `Bootcamps`
-
+- `Bootcamps`  
   Trilhas imersivas de aprendizagem, geralmente fornecidos por empresas patrocinadoras que buscam novos talentos no
   mercado
-- `Live Coding (Pro)` 
-  
+- `Live Coding (Pro)`    
     Lives de profissionais criando aplicações e projetos
-- `Labs (Pro)` 
-    
+- `Labs (Pro)`      
     Projetos prontos para serem reproduzidos e aumentar os seus conhecimentos e prática de programação
-- `Perfil`
+- `Perfil`  
     - Level: XP ganho a medida que você estuda e interage com a plataforma
     - Conquistas: badges adquiridas ao término de cursos, desafios, etc... (certificados)
     - Habilidades: tópicos aprendidos durante o aprendizado
     - Currículo: você preenche com seus dados profissionais
   
-# 10 dicas para ser contratado
+## 10 dicas para ser contratado
 
 1. Ter um github alinhado com seu currículo
 1. Ter Artigos publicados na internet
@@ -44,7 +40,7 @@ Algumas características da DIO
 1. Ter contas em provedores cloud e ferramentas online para devs
 1. Ter evidências de aprendizagem continua através da internet
 
-# 10 características dos não aprovados
+## 10 características dos não aprovados
 
 1. Não tem projetos e portfólio pra apresentar
 1. Não conhece e nunca praticou as novas tecnologias
@@ -58,7 +54,7 @@ desenvolvimento e operação de software
 1. Não tem fit com a cultura e propósito da empresa
 1. Dificuldade com algoritmos complexos e pensamento lógico.
 
-# Dio Pro
+## Dio Pro
 
 - `Live Coding`
   Agora, imagine que além de fazer os cursos gratuitamente na plataforma, você tenha a chance de ver um profissional
