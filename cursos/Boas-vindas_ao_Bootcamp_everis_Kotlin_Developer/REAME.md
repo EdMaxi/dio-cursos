@@ -14,4 +14,4 @@ A Everis é uma das maiores empresas de TI do mundo.
 - Diretor de Digital Banking: `Fabiano Fazolo`
 - Mais de 3.300 funcionários
 
-![Time Everis Brasil](./time-everis-brasil.png)
+![Time Everis Brasil](time-everis-brasil.png)
