@@ -57,3 +57,15 @@ desenvolvimento e operação de software
 1. Apresenta poucas evidências de disciplina para traçar metas de aprendizagem e aprender continuamente online
 1. Não tem fit com a cultura e propósito da empresa
 1. Dificuldade com algoritmos complexos e pensamento lógico.
+
+# Dio Pro
+
+- `Live Coding`
+  Agora, imagine que além de fazer os cursos gratuitamente na plataforma, você tenha a chance de ver um profissional
+  renomado no mercado, que trabalha em uma das empresas que você almeja trabalhar, fazendo uma aplicação AO VIVO?
+  Esta é a ideia do live Coding!
+  
+- `Labs`
+Aqui temos um banco de projetos interessantes pra você pegar o código e reproduzir da sua maneira, praticamento
+  com projetos reais, atuais e que usam as melhores tecnologias do mercado.  
+  Imagina fazer seu próprio facebook, whatsapp, insta, netflix??? Seria muito massa saber como tudo isso funciona!
