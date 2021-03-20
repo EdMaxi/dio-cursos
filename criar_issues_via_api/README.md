@@ -11,8 +11,8 @@ Criar toda a estrutura no repositório dá um bom trabalho, e por isso este scri
 1. [Crie um Personal Token do Github](https://github.com/settings/tokens/new) com a permissão `public_repo`
 ![github-token-image](../assets/github-token-permissao.png)
    
-1. Atualize o o arquivo .env com seu token no formato: `TOKEN=SEUTOKENAQUI`
-1. Instale as dependências e execute a criação de Issues automatizada:
+1. Crie um arquivo `.env` com seu token no formato `TOKEN=SEUTOKENAQUI`
+1. Agora execute os comandos abaixo no seu terminal:
     ```bash
     cd criar_issues_via_api
     npm install
