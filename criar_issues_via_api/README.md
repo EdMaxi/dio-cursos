@@ -13,7 +13,7 @@ Criar toda a estrutura no repositório dá um bom trabalho, e por isso este scri
    
 1. Atualize o o arquivo .env com seu token no formato: `TOKEN=SEUTOKENAQUI`
 1. Instale as dependências e execute a criação de Issues automatizada:
-    ```
+    ```bash
     cd criar_issues_via_api
     npm install
     npm run deploy
