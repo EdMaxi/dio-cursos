@@ -81,7 +81,8 @@ Vamos pensar no seguinte:
 
 ## Instalação
 
-1. Faça um _`Fork`_ deste repositório, configure-o com as opções abaixo:
+1. Faça um _`Fork`_ deste repositório (é só clicar ali em cima em Fork), 
+   pra ele ser copiado pra sua conta no github, configure-o com as opções abaixo:
 * Em **Settings > Options**, marque estas opções:
   - `Features`
     - [x] Issues
