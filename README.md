@@ -42,7 +42,7 @@ Tá certo, mas antes de dar tudo isso de mão beijada eu preciso saber: 👋
 ## Estrutura da Digital Innovation One (DIO)
 ![dio-estrutura-](./assets/dio-estrutura-cursos.png)
 - `Formação` (ou Trilha de aprendizado)  
-  É um conjunto de cursos da uma mesma categoria que quando concluídos vão te capacitar plenamente no assunto
+  É um conjunto de cursos da mesma categoria
 - `Curso`
   É um conjunto de vídeo aulas, excercícios e avaliações.  
   Os cursos possuem os níveis `Básico`, `Intermediário` e `Avançado` e podem fazer parte de `Bootcamps`, `Acelerações` e outros recursos da DIO.
@@ -89,7 +89,6 @@ Vamos pensar no seguinte:
   - `Merge Button`
     - [x] Allow auto-merge
     - [x] Automatically delete head branches
-
 
 ### Clonando o repositório
 
